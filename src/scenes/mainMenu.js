@@ -22,7 +22,7 @@ export default function mainMenu() {
   ];
 
   k.add([
-    k.text("SONIC RING RUN", { font: "mania", size: 96 }),
+    k.text("FWC26", { font: "mania", size: 96 }),
     k.anchor("center"),
     k.pos(k.center().x, 200),
   ]);
